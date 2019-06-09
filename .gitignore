@@ -1,0 +1,5 @@
+venv
+.idea
+node_modules
+*.py[c|o]
+__pycache__
